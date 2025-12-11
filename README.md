@@ -5,10 +5,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-naomi.esposito.cs@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:naomi.esposito.cs@gmail.com)](mailto:naomi.esposito.cs@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/naomi.amiira/)
 
-:wave: Hello! I'm  ..
+:wave: 
+- 🎓 Masters'𝚜 Data science and business informatics 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Pisa, Italy
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Business Administration 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Pisa, Italy
+
+- 🔧 Developing skills in Python, NLP, Network Analysis
+- 🧙🏾‍♀️ I'm good to collect data
 
 
-
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) !![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Google Colab](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F23%2Fa2%2Fac%2F23a2ac0ca29b709d289f0c13013c6b04.jpg&f=1&nofb=1&ipt=1777c82966dda95919977ba62387baecdab80a1b5c5fa925a18a033002f785c1)
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
