@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/Naomiamii/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/Naomiamii?label=Follow&style=social)](https://github.com/Naomiamii/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/naomi-esposito3/)](https://www.linkedin.com/in/naomi-esposito3/)
 [![Gmail Badge](https://img.shields.io/badge/-naomi.esposito.cs@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:naomi.esposito.cs@gmail.com)](mailto:naomi.esposito.cs@gmail.com)
 
