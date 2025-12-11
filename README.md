@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/Naomiamii/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/naomi-esposito3/)](https://www.linkedin.com/in/naomi-esposito3/)
-[![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:naomi.esposito.cs@gmail.com)](mailto:naomi.esposito.cs@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-naomi.esposito.cs@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:naomi.esposito.cs@gmail.com)](mailto:naomi.esposito.cs@gmail.com)
 
-[![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
 
 :wave: Hello! I'm  ..
 
